@@ -1,16 +1,27 @@
-## Hi there 👋
+# I'm Shujian Yao
 
-<!--
-**Yoshuken/Yoshuken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+    <strong>Data Science Developer</strong><br>
+    I'm a fellow NeoVim user and an avid knowledge gobler. I work in the software industry, and in my free time I do some tinkering, exploring, and studying.
+</p>
 
-Here are some ideas to get you started:
+## Main tools and focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><strong>Building</strong></td>
+    <td>Backend systems, Web products, Statistic Reports</td>
+  </tr>
+  <tr>
+    <td><strong>Working with</strong></td>
+    <td>Python, SQL, JavaScript, Linux, Yaml</td>
+  </tr>
+  <tr>
+    <td><strong>Goals</strong></td>
+    <td>Learning good code practices and what it mean to be a good developer</td>
+  </tr>
+</table>
+
+## Projects
+
+- **[In Coming...]()**  
