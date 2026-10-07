@@ -1,7 +1,7 @@
 # I'm Shujian Yao
 
 <p align="left">
-    <strong>Data Science Developer</strong><br>
+    <strong>Python Developer</strong><br>
     I'm a fellow NeoVim user and an avid knowledge gobler. I work in the software industry, and in my free time I do some tinkering, exploring, and studying.
 </p>
 
